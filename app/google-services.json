@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937407087526",
+    "project_id": "mhoras-44b50",
+    "storage_bucket": "mhoras-44b50.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937407087526:android:12898672ac36809f380567",
+        "android_client_info": {
+          "package_name": "com.example.mhoras"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfmCfRSwGeJvLD1Xam-v6tLEPpL0ORqhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

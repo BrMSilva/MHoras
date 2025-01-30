@@ -1,0 +1,50 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/tvUsuario"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#333"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/tvLocal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#333"
+        android:textSize="14sp"/>
+
+    <TextView
+        android:id="@+id/tvData"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#777"
+        android:textSize="14sp"/>
+
+    <TextView
+        android:id="@+id/tvHoraInicio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#777"
+        android:textSize="14sp"/>
+
+    <TextView
+        android:id="@+id/tvHoraFim"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#777"
+        android:textSize="14sp"/>
+
+    <TextView
+        android:id="@+id/tvDuracao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#555"
+        android:textSize="14sp"/>
+</LinearLayout>
+

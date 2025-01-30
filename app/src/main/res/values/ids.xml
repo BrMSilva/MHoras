@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etPassword" type="id" />
+    <item name="etEmail" type="id" />
+    <item name="tvCurrentTime" type="id" />
+    <item name="etLocation" type="id" />
+    <item name="rvRegistros" type="id" />
+</resources>
