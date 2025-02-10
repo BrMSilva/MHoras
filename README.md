@@ -1,6 +1,6 @@
 # MHoras
 
-MHoras é um aplicativo intuitivo e eficiente para o registro de horas trabalhadas e localização em tempo real. Desenvolvido para profissionais e equipes que desejam organizar suas jornadas de trabalho de forma clara e precisa, o MHoras permite acompanhar registros e gerar relatórios detalhados em formato Excel.
+MHoras é um aplicativo intuitivo e eficiente para o registro de horas trabalhadas. Desenvolvido para profissionais que desejam organizar suas jornadas de trabalho de forma clara e precisa, o MHoras permite acompanhar registros e gerar relatórios detalhados em formato Excel.
 
 ## Recursos Principais
 
